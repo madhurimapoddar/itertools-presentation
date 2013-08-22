@@ -1,8 +1,8 @@
 itertools-presentation
 ======================
 
-mkvirtualenv itertools-presentation
-git clone https://github.com/madhurimapoddar/itertools-presentation.git
-cd itertools-presentation
-pip install -r requirements.txt
-ipython notebook
+    mkvirtualenv requests-presentation
+    git clone https://github.com/estebistec/requests-presentation
+    cd requests-presentation
+    pip install -r requirements.txt
+    ipython notebook
